@@ -1,0 +1,74 @@
+body{
+  background: #000009;
+  padding: 20px;
+}
+.container {
+background: white;
+padding: 10px;
+width: 400px;
+margin: auto;
+border-radius: 20px;
+height: 400px;
+}
+.title{
+  color: #22274f;
+  text-align: center;
+}
+.user {
+background: #d7ceff;
+color: #5358a1;
+padding: 5px;
+border-radius: 20px;
+border: none;
+text-align: center;
+width: 80%;
+margin: auto;
+display: flex;
+font-size: 16px;
+}
+.password{
+background: #d7ceff;
+color: #5358a1;
+padding: 5px;
+border-radius: 20px;
+border: none;
+text-align: center;
+width: 80%;
+font-size: 16px;
+margin: auto;
+display: flex;
+}
+.none {
+text-align: center;
+font-size: 20px;
+color: green;
+}
+
+.email {
+background: #d7ceff;
+color: #5358a1;
+font-size: 16px;
+padding: 5px;
+border-radius: 20px;
+border: none;
+text-align: center;
+width: 80%;
+margin: auto;
+display: flex;
+}
+.warning{
+text-align: center;
+font-size: 20px;
+color: red;
+}
+.register{
+  background: #5358a1;
+  border: none;
+  color: #8f90ff;
+  display: flex;
+  margin: auto;
+  width: 100px;
+  padding: 3px;
+  font-size: 20px;
+  border-radius: 20px;
+}
